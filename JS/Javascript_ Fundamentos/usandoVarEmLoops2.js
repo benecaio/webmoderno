@@ -13,3 +13,4 @@ funcs[2]()
 funcs[6]()
 
 // no âmbito de var, i não está em escopo de função e não foi declarada fora da estrutura de loop.
+// Responde os valores de i no array na posição.

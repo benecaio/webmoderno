@@ -16,4 +16,4 @@ console.log('numero =', numero, 'numero2 =', numero2)
     console.log('dentro:',numero2)
 }
 
-console.log('fora:',numero)
+console.log('fora:',numero2)
