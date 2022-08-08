@@ -18,6 +18,7 @@ function Obj(nome){
 
 const Obj2 = new Obj('Caio')
 const Obj3 = new Obj('Vinicius')
+console.log(Obj2)
 console.log(Obj2,Obj2.nome,Obj2.exec)
 console.log(Obj3,Obj3.nome)
 
