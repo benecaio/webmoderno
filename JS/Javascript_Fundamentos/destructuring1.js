@@ -12,7 +12,7 @@ const pessoa = {
     }
 }
 
-// Desestruturando OBJETOS: Para extrair informações de um objeto: const {atr1, atr2} = de qual objeto 
+// Desestruturando OBJETOS: Para extrair informações de um objeto: const {atr1, atr2} = de qual objeto.
 
 const {nome, idade} = pessoa
 console.log(nome, idade)

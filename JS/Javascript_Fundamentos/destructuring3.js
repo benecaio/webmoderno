@@ -1,6 +1,7 @@
-// Destructuring em funções:
+// Desestruturando FUNÇÕES:
 
 function rand({min=0,max=1000}){
+    //NOTE que dentro da função, é um objeto.
     const valor = Math.random()*(max - min) + min
     return Math.floor(valor)
  // note que dentro de chaves{} é o operador destructuring, vamos passar um objeto e o retorno não precisa de vir com uma notação ponto para fazer o acesso 

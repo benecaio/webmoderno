@@ -1,4 +1,4 @@
-// Destructuring arrays:
+// Desestruturando ARRAYS:
 // MUITO CUIDADO, a notação de construção de array é bem similar!
 const [a] = [10]
 console.log(a)
