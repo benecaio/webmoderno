@@ -20,7 +20,7 @@ F xor F -> FALSO
 !F -> VERDADEIRO
 */
 
-/* Exemplo: 2 Trabalhos: T1 na 3a e T2 na 5a. 
+/* Exemplo: Vou fazer 2 trabalhos: T1 na terça-feira e T2 na quinta-feira. Vou no Shopping no fim de semana: 
 Se o T1 E T2 der certo, no fds vc vai -> Comprar uma TV 50 pol. E tomar sorvete: Operador E;
 Se o T1 ou T2 der certo, no fds vc vai -> Comprar uma TV de 32 pol. E tomar sorvete: Operador OU exclusivo;
 Se o T1 ou T2 NÃO der certo, no fds vc vai -> Ficar em casa saldável!!
@@ -34,7 +34,7 @@ function compras(trabalho1, trabalho2) {
     // Operadores de curto circuito: A partir do primeiro dado, se a resposta for contrária ao preciso não verifica a outra variável.
 
     // const comprarTv32 = !!(trabalho1 ^ trabalho2)
-    // Note que a simbologia ^= Ou exclusivo, Confere de bit a bit
+    // Note que a simbologia ^ = Ou exclusivo, Confere de bit a bit
     
     const comprarTv32 = trabalho1 != trabalho2
     // Operador de diferença;
