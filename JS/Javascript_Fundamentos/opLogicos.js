@@ -38,6 +38,7 @@ function compras(trabalho1, trabalho2) {
     
     const comprarTv32 = trabalho1 != trabalho2
     // Operador de diferença;
+    
     const manterSaudavel = !comprarSorvete
 
     /* JAVASCRIPT -> Conceito chave e valor nas coleções.
