@@ -1,4 +1,4 @@
-/*Estrutura de controle IF (SE): Se a condição (dentro) for satisfeita ou verdadeira {bloco} será lido, em sequência:
+/*Estrutura de controle IF (SE): Se a condição (dentro) for satisfeita ou VERDADEIRA {bloco} será lido, em sequência:
 */
 
 function soBoaNoticia (nota){
